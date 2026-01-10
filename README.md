@@ -92,7 +92,7 @@
   <tr>
     <td><b>☁️ DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible,githubactions,gitlab,jenkins,argo" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible,githubactions" />
     </td>
   </tr>
 
