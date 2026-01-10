@@ -116,11 +116,7 @@
 
 <br/>
 
-<details>
-  <summary><b>🔥 Stats</b></summary>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=satyamsingh9315170823&theme=dark&hide_border=true" />
-</details>
+
 
 </td>
 </tr>
