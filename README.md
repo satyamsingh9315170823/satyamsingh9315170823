@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/satyam-kumar-3a28b2236/">
+  <a href="https://www.linkedin.com/in/satyam-kumar-a470163aa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </div>
